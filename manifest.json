@@ -1,0 +1,25 @@
+{
+  "name": "LaCartoons",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "lacartoons",
+      "name": "LaCartoons",
+      "description": "Series y caricaturas en español desde lacartoons.com.",
+      "version": "1.0.0",
+      "author": "LaCartoons",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/lacartoons.js",
+      "enabled": true,
+      "logo": "",
+      "contentLanguage": [
+        "es"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": false
+    }
+  ]
+}
